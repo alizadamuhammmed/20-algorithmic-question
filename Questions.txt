@@ -1,0 +1,21 @@
+1. 10-dan 40-a qədər 3 və 5-ə qalıqsız bölünən ədədlərin cəmini hesablayan Java kodu yazın.
+2. 20-yə qədər olan sadə ədədləri ekrana yazan Java kodu yazın.
+3. 50-yə qədər olan sadə ədədlərin cəmini ekrana yazan Java kodu yazın.
+4. Şagirdin daxil etdiyi BSQ, KSQ və sərbəst iş ballarının müvafiq olaraq 50, 35 və 15 faizini toplayıb şagirdin balını və qiymətini ekrana yazan Java kodu yazın. (100-91 = A, 90-81 = B, 80-71 = C, 70-61 = D, 60-51 = E)
+5. İstifadəçidən aldığınız ədədin faktorialını hesablayan Java kodu yazın.
+6. İstifadəçidən bir ədəd alıb, həmin ədəd qədər (Minimum 3) Fibanoççi ədədlərini ekrana yazan Java kodu yazın.
+7. İstifadəçi "STOP" yazana qədər onun daxil etdiyi ədədləri toplayan, "STOP" sözündən sonra həmin ədədlərin cəmini ekrana yazan Java kodu yazın.
+8. İstifadəçidən 10 ədəd daxil etməsini istəyib, daxil edilən ədədlərdən 5-ə bölünənlərinin cəmini ekrana yazan Java kodu yazın.
+9. İstifadəçidən ədədlər daxil etməsini istəyən, daxil etdiyi ədədlərin cəmi 110-u keçdikdə proqramı sonlandıran və cəmi ekrana yazan Java kodu yazın.
+10. Vurma əməlindən istifadə etməyərək daxil edilən iki ədədin hasilini hesablayan Java kodu yazın.
+11. Proqram başlayanda istifadəçidən 4 əməldən birini seçməsini istəyən ( * / + - ), daha sonra iki ədəd istəyib seçilən əməliyyatı 
+yerinə yetirən Java kodu yazın.
+12. İstifadəçidən illik 21% dəyər artımına sahib olan şirkətin indiki dəyərini istəyən və şirkətin dəyərinin neçə il sonra 100 min manatı keçəcəyini hesablayan Java kodu yazın.
+13. İstifadəçidən sinifdə neçə şagird olduğunu soruşan, hər şagirdin qiymətini istəyib sinifin ümumi ortalamasını hesablayan Java kodu yazın.
+14. İstifadəçidən 3 random ədəd daxil etməsini istəyən və ədədləri artan sıra ilə ekrana yazan Java kodu yazın. (Hint: Arrays.sort istifadə edin)
+15. Mükəmməl ədəd özü istisna olmaqla, bölünənlərinin cəmi ədədin özünə bərabər olan ədədə deyilir. 6 ədədinin mükəmməd ədəd olduğunu isbat edən Java kodu yazın.
+16. İstifadəçinin daxil etdiyi ədədə qədər olan mükəmməl ədədləri ekrana yazan Java kodu yazın.
+17. Ekrana 1 və 100 arasında random bir ədəd çap edən Java kodu yazın.
+18. Situasiyanı Java kodu ilə yazın -> Menecer işçinin həftəlik maaşını hesablamaq istəyir. İlk öncə saat başına standart maaş daxil edilir. Daha sonra işçinin bu həftə neçə saat işlədiyi. Əgər işçi 40 saat və ya 40 saatdan az işləyibsə, maaşı standart maaş ilə hesablanır. Əgər 40 saatdan artıq işləyibsə, maaşı standart maaşdan 20 faiz əlavə qonorarla hesablanır və ekrana yazdırılır.
+19. Situasiyanı Java kodu ilə yazın -> İstifadəçi Bəxtəbəxt adlı yarışmaya qoşulub. Hər dəfə çarxıfələkdə random olaraq 1 və 15 arasında bir ədəd çıxır. Əgər çıxan ədəd istənməyən ədədlərdən birinə (3, 5 və 7-yə) bərabər deyilsə, çıxan ədəd qədər məbləğ istifadəçinin balansına oturur. Oyunçuya çarxı hər fırlatdıqdan sonra davam etmək və ya oyunu sonlandırmaq hüququ verilir. Əgər davam edərsə və çıxan ədəd istənməyən ədəd olarsa, bütün balansını itirir və oyun yekunlaşır.
+20. Situasiyanı Java kodu ilə yazın -> İstifadəçi 1 və 20 arasından bir ədəd təxmin etsin. Əgər təxmini bizim ədəddən daha böyük olarsa daha kiçik bir ədəd təxmin etməsini, daha kiçik olarsa, daha böyük bir ədəd təxmin etməsini istəyin. 3 təxmin haqqları var, əgər 3-cü cəhddə də tapa bilməsələr oyun yekunlaşır, və bizim ədəd ekrana çıxır. 
